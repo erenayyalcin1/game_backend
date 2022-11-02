@@ -1,0 +1,7 @@
+C:\Users\erena\source\repos\mermi\mermi\obj\Debug\mermi.csproj.AssemblyReference.cache
+C:\Users\erena\source\repos\mermi\mermi\obj\Debug\mermi.csproj.CoreCompileInputs.cache
+C:\Users\erena\source\repos\mermi\mermi\bin\Debug\mermi.exe.config
+C:\Users\erena\source\repos\mermi\mermi\bin\Debug\mermi.exe
+C:\Users\erena\source\repos\mermi\mermi\bin\Debug\mermi.pdb
+C:\Users\erena\source\repos\mermi\mermi\obj\Debug\mermi.exe
+C:\Users\erena\source\repos\mermi\mermi\obj\Debug\mermi.pdb
